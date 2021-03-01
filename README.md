@@ -2,4 +2,5 @@
 Repository Hello Word
 
 readme-edits
-ппппппп
+
+Добрый день! Я начинаю свой новый проект
